@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/marciobahia/Tindev/blob/master/Frontend/src/assets/logo.svg" width="300" >
+  <img src="https://github.com/marciobahia/Instadevs/blob/master/frontend/src/assets/logo.svg" width="300" >
 </div>
 
 ## AirCnC #
