@@ -18,7 +18,7 @@ Tindev is an Application inspired by Tinder but focused on Developers.
 ![Let Me Ask preview]
 
 
-<img src="https://github.com/marciobahia/Tindev/blob/master/Frontend/src/assets/Tindev.jpg" >
+<img src="https://github.com/marciobahia/Instadevs/blob/master/Captura%20de%20Tela%202021-06-24%20às%2016.40.12.png" >
 
 
 ## Tecnologies
