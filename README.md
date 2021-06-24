@@ -43,7 +43,7 @@ This project was developed using the following technologies:
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/marciobahia/Tindev.git && cd tindev
+$ git clone https://github.com/marciobahia/Instadev.git && cd instadev
 ```
 
 **Follow the steps below**
