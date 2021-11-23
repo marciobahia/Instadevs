@@ -5,7 +5,7 @@
   <img src="https://github.com/marciobahia/Instadevs/blob/master/frontend/src/assets/logo.svg" width="300" >
 </div>
 
-## AirCnC #
+## InstaDev #
 
 [![Author](https://img.shields.io/badge/author-marciobahia-835AFD?style=flat-square)](https://github.com/marciobahia)
 [![Languages](https://img.shields.io/github/languages/count/josepholiveira/letmeask?color=%23835AFD&style=flat-square)](#)
